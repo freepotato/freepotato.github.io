@@ -1,9 +1,33 @@
-body{
-    margin: 50px auto;
-    max-width: 800px;
-    font-family: "San Francisco", sans-serif;
-}
-p{
-    font-family: "Menlo", monospace;
 
+body{
+    font-family: "Menlo", monospace;
+}
+body.greyBg{
+    background-color: lightgrey;
+}
+h1,h2,h3,h4,h5,h6{
+    letter-spacing: 2px;
+}
+li{
+    letter-spacing: 1px;
+}
+.article{
+    background-color: whitesmoke;
+    margin: 50px 20% 50px 20%; /* 上下左右都留20px的距离 */
+    border-radius: 5px; /* 设置四个角的圆角 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 设置阴影效果 */
+    padding: 50px 7% 50px 7%; /* 内容区域内部的内边距 */
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: lightblue;
+}
+a:visited{
+    color:purple;
+}
+a.bold{
+    font-weight: bold;
 }
