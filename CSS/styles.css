@@ -19,8 +19,8 @@ li{
     padding: 50px 7% 50px 7%; /* 内容区域内部的内边距 */
 }
 a{
-    color: blue;
-    text-decoration: none;
+    color: black;
+    text-decoration: underline;
 }
 a:hover{
     color: lightblue;
@@ -30,4 +30,13 @@ a:visited{
 }
 a.bold{
     font-weight: bold;
+}
+ul{
+    list-style-type: disc;
+}
+ul ul{
+    list-style-type: square;
+}
+ul ul ul{
+    list-style-type: square;
 }

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>笔记-Java</title>
+    <link rel="stylesheet" href="../CSS/styles.css">
+</head>
+<body class="greyBg">
+    <div class="article">
+        <h1>Java</h1>
+        <div>
+            <strong>继承</strong>
+            <p>向上继承是安全的
+                <br>
+                <code>Person mrBing = new Student();</code>
+                <br>
+                向下继承只有<strong>父类型变量指向子类型实例</strong>时才可行
+                <br>
+                <code>Person mrBing = new Student();
+                <br>Student mrGeller = (Student)mrBing; // mrBing类型为Person, 但实际指向Student, 故可行
+                </code>
+                <br>否则会产生ClassCastException错误
+                <br>因此可用<code>mrBing instanceof Student == true</code>来判断mrBing指向内容是否为Student实例, 无论mrBing的数据类型是Student还是它的父级。
+                
+                
+            </p>
+        </div>
+    </div>
+</body>
+</html>
