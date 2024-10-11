@@ -19,7 +19,7 @@ title: Florian's # the main title
 tagline: 一个游戏、影视、数独、足球以及乱七八糟的琐事爱好者。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  记录个人成长、生活琐事、时事观等。
+  记录我的个人成长、生活琐事、时事观点。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/freepotato # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
