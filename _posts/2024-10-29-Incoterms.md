@@ -1,7 +1,7 @@
 ---
 date: 2024-10-29 15:04
 categories: [随笔]
-tags: [Incoterms, 国际贸易，术语]
+tags: [Incoterms, 国际贸易, 术语]
 ---
 
 ## 11个术语表格
