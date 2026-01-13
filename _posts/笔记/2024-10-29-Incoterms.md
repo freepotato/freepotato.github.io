@@ -1,6 +1,6 @@
 ---
 date: 2024-10-29 15:04
-categories: [随笔]
+categories: [学习笔记]
 tags: [Incoterms, 国际贸易, 术语]
 ---
 

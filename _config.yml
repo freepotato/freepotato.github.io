@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Florian's # the main title
+title: Florian's Blog # the main title
 
-tagline: 一个游戏、影视、数独、足球以及乱七八糟的琐事爱好者。 # it will display as the subtitle
+tagline: 一个游戏、影视、吉他以及乱七八糟的琐事爱好者。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   记录我的个人成长、生活琐事、时事观点。
@@ -102,7 +102,7 @@ avatar: "./assets/img/favicons/apple-touch-icon.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "./assets/img/favicons/mstile-150x150.png" # string, local or CORS resources
+social_preview_image: "./assets/img/favicons/web-app-manifest-192x192.png" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
